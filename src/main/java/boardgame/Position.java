@@ -1,5 +1,7 @@
 package boardgame;
 
+import java.io.Serial;
+
 public class Position {
     private Integer row;
     private Integer column;
